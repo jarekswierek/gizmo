@@ -1,7 +1,4 @@
-# Gizmo - Password Keeper 
-
-# Graphical User Interface:
-  - TkInter
+# Gizmo - GUI password keeper 
  
 # Run app
 ```
